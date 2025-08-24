@@ -26,7 +26,7 @@
 ## 🌱 About Me
 - 🎯 Currently learning **Mathematics**  
 - 🤝 Open to collaborating on **open source + fintech projects**  
-- 🏋️ Outside coding: I enjoy **Making rap music**  
+- 🏋️ Outside coding: I enjoy **Making music**  
 - ⚡ Fun fact: I can deadlift more than I can debug sometimes 😅  
 
 ---
