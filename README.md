@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Godwill Christopher
 
 💻 Software Engineer | Building scalable apps with **Java, Spring Boot & React**  
-🌍 Based in London  
+🌍 Based in Lagos  
 
 ---
 
